@@ -2,6 +2,7 @@
 
 A machine learning project focused on identifying fraudulent transactions in financial systems with high accuracy and reduced false positives.
 
+
 ---
 
 ## 🚀 Key Highlights
@@ -10,6 +11,7 @@ A machine learning project focused on identifying fraudulent transactions in fin
 - Achieved **92% accuracy** in identifying fraudulent activities  
 - Reduced pipeline **memory usage by 22%**  
 - Improved **model inference speed by 18%** for real-time performance  
+
 
 ---
 
@@ -20,6 +22,7 @@ A machine learning project focused on identifying fraudulent transactions in fin
 - NumPy, Pandas  
 - Matplotlib / Seaborn (EDA)  
 - Jupyter Notebook  
+
 
 ---
 
@@ -32,6 +35,7 @@ A machine learning project focused on identifying fraudulent transactions in fin
   - Feature scaling
   - Model interpretability
 
+
 ---
 
 ## 📈 Workflow
@@ -42,6 +46,7 @@ A machine learning project focused on identifying fraudulent transactions in fin
 4. Model training: Logistic Regression & Decision Trees  
 5. Performance evaluation: Precision, Recall, F1-Score, Confusion Matrix  
 6. Optimization for reduced memory + improved inference  
+
 
 ---
 
